@@ -1,0 +1,3 @@
+msu_msgs/CompetitionObject object01
+msu_msgs/CompetitionObject object02
+msu_msgs/CompetitionObject object03

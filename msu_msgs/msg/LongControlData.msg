@@ -1,0 +1,6 @@
+float32 long_selected_speed
+uint8 gap_setting
+bool long_active
+uint8 last_arbitration
+float32 ego_speed
+bool v2x_active

@@ -1,0 +1,12 @@
+bool standstill
+int8 prndl
+bool slip
+float32 steer
+float32 steer_rate
+float32 yaw_rate
+float32 velocity
+bool wiper_status
+float32 lat_accel
+float32 long_accel
+uint8 turn_signal_status
+int8 over_under_steer

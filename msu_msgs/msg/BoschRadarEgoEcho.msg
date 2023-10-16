@@ -1,0 +1,4 @@
+float32 yaw_rate
+float32 velocity
+float32 acceleration
+float32 calc_slip_angle

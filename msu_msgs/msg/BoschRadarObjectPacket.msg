@@ -1,0 +1,9 @@
+std_msgs/Header header
+
+msu_msgs/BoschRadarEgoEcho ego
+msu_msgs/BoschRadarObject object00
+msu_msgs/BoschRadarObject object01
+msu_msgs/BoschRadarObject object02
+msu_msgs/BoschRadarObject object03
+msu_msgs/BoschRadarObject object04
+msu_msgs/BoschRadarObject object05
